@@ -1,4 +1,4 @@
-# VS Code Extensions For MERN
+# VS Code Extensions For VueJS
 
 ## VueJS Extensions:
 
