@@ -2,7 +2,7 @@
 
 ## VueJS Extensions:
 
-1. **Vue Language Features (Volar) (Vue) -** Language support for Vue 3
+1. **Vue - Official (Vue) -** Language support for Vue 3
 
 2. **Vue 3 Snippets (hollowtree) -** A Vue.js 3 And Vue.js 2 Code Snippets Extension
 
